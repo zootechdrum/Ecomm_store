@@ -1,7 +1,8 @@
-# Ecomm_store
+aaron
+# Ecomm_store 
 New ECOMM store.
-adding text...
-
+# Merge conflicts resolved
 
 
  
+main
