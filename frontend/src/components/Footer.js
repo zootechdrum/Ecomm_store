@@ -1,21 +1,16 @@
 import React from 'react'
-import { Container, Row, Col } from 'react-bootstrap'
-
+import footStyle from './footStyle.module.css'
 
 const Footer = () => {
   return (
-    <footer>
-
-      <Container>
-          <Row>
-            <Col className ='text-center py-3 '>
+    <footer className={footStyle.container}>
+      <div className={footStyle.legalContent}>
             Copyright &copy; Proshop
-            </Col>
+      </div>
+      <div clasName={ footStyle.socialIcons}>
+        <h1>Hello world</h1>
+      </div>
 
-          </Row>
-
-      </Container>
-        
     </footer>
   )
 }
