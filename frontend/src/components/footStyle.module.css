@@ -40,11 +40,11 @@
     margin: 4px;
     border-radius: 2em;
     overflow: hidden;
+    padding:0.3rem;
   }
   
   .socialIcons li a {
     display: block;
-    padding: 0.5em;
     min-width: 1.28571429em;
     max-width: 1.28571429em;
     height: 1.28571429em;
